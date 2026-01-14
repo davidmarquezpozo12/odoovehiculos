@@ -1,2 +1,2 @@
-# odoovehiculos/__init__.py
+#  odoovehiculos/__init__.py 
 from . import models
