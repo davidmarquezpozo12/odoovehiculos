@@ -1,4 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_vehiculo_management_user,access.vehiculo.management,model_vehiculo_management,base.group_user,1,1,1,1
-access_vehiculo_management_manager,access.vehiculo.management.manager,model_vehiculo_management,base.group_system
-,1,1,1,1
+access_vehiculo_management_manager,access.vehiculo.management.manager,model_vehiculo_management,base.group_system,1,1,1,1
