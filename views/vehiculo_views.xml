@@ -1,3 +1,4 @@
+<!-- David Márquez Pozo -->
 <odoo>
     <!-- Vista de formulario -->
     <record id="view_vehiculo_form" model="ir.ui.view">
